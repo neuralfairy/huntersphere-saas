@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Huntersphere Solutions - iEMA Email Marketing Automation Platform",
   description:
     "Transform your B2B email marketing with Huntersphere's iEMA platform. Advanced automation, AI-powered sequences, and seamless CRM integration.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "email marketing automation, B2B marketing, drip campaigns, marketing sequences, CRM integration",
     generator: 'v0.dev'
 }
